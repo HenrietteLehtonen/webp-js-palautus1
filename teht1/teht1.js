@@ -7,3 +7,6 @@ greeting();
 // git add . - lisää
 // git commit -m - commit ja viesti 'first commit'
 // git push
+
+// filezilla
+// webdisk --> users.metropolia.fi/~henriele
